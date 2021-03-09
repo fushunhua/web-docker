@@ -1,0 +1,22 @@
+{
+  "es_info": {
+    "es_host": "10.3.201.18",
+    "es_username": "elastic",
+    "es_passwd": "Sotcbb@2018@elastic"
+  },
+  "wechat_info": {
+    "corpid": "wx5f6540f3d17f8695",
+    "corpsecret": "8c4-ivfgBrUbAEFmW3fjrnR3qghmvIy6XLyAO-BCKOg",
+    "app_id": "1000002",
+    "group_id": "8889"
+  },
+  "query_list": [
+    {
+      "es_index": "fw_log_alias",
+      "fw_name": "出口.*",
+      "query_limit": 10,
+      "request_limit": 300,
+      "time_interval": 2
+    }
+  ]
+}

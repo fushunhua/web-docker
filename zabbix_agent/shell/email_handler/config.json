@@ -1,0 +1,22 @@
+{
+  "email": {
+    "host": "c1.icoremail.net",
+    "port": "993",
+    "username": "zhangruiming@sotcbb.com",
+    "passwd": "Zhang1238$!"
+  },
+  "wechat": {
+    "app_main": {
+      "corpid": "wx5f6540f3d17f8695",
+      "corpsecret": "8c4-ivfgBrUbAEFmW3fjrnR3qghmvIy6XLyAO-BCKOg",
+      "app_id": "1000002",
+      "group_id": "8889"
+    },
+    "app_test": {
+      "corpid": "wx472541934c494fe1",
+      "corpsecret": "CUktTkBmMbi6oCemQ6DNOix-ZSJAV6XRz2rY5GdaV_w",
+      "app_id": "1",
+      "group_id": "1"
+    }
+  }
+}

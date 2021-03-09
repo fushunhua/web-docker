@@ -1,0 +1,7 @@
+log timestamp,ELK log ID,client IP,city name,back_end_host,http response,URL,error_msg,error_log,error_data
+"2018-03-27T23:59:49.244Z","AWJp504YOwJ9bVn2Y3la","10.3.101.9","-","10.3.102.3","200","/carbidWechat/validCodeReq","-","-","-",
+"2018-03-27T23:59:49.156Z","AWJp5022OwJ9bVn2Y3lU","10.3.101.9","-","10.3.102.3","200","/carbidWechat/validCodeReq","-","-","-",
+"2018-03-27T23:59:48.935Z","AWJp50z1OwJ9bVn2Y3kc","14.116.133.171","Guangzhou","10.3.102.4","200","/carbidBail/queryBailResult?r=0.006499139981622104","-","-","-",
+"2018-03-27T23:59:46.566Z","AWJp50OYOwJ9bVn2Y3gO","14.116.133.171","Guangzhou","10.3.102.4","200","/carbidBail/queryBailResult?r=0.5621223540140541","-","-","-",
+"2018-03-27T23:59:35.863Z","AWJp5xniOwJ9bVn2Y3MY","14.28.167.152","Shenzhen","10.3.102.4","200","/servlet/CheckCodeServlet?r=1522195174064","-","-","-",
+"2018-03-27T23:59:35.819Z","AWJp5xn7OwJ9bVn2Y3Mi","14.28.167.152","Shenzhen","10.3.102.4","200","/carbid/toprintpaynote","-","-","-",

@@ -1,0 +1,15 @@
+FROM centos:latest
+
+COPY zabbix.repo /etc/yum.repos.d/
+
+COPY bin/* /usr/local/bin/
+
+COPY shell /usr/local/shell
+
+RUN yum clean all \
+    && yum install zabbix-agent zabbix-sender -y \
+    && yum install python36 -y
+
+EXPOSE 10050
+
+CMD ["/usr/sbin/zabbix_agentd","--foreground","-c","/etc/zabbix/zabbix_agentd.conf"]

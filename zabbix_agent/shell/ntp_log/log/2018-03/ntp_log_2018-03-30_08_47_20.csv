@@ -1,0 +1,7 @@
+log timestamp,ELK log ID,client IP,city name,back_end_host,http response,URL,error_msg,error_log,error_data
+"2018-03-27T23:59:55.150Z","AWJp52U3OwJ9bVn2Y3y4","14.116.133.171","Guangzhou","10.3.102.4","200","/carbidBail/queryBailResult?r=0.3592028733774757","-","-","-",
+"2018-03-27T23:59:53.406Z","AWJp517COwJ9bVn2Y3wi","120.229.95.26","-","10.3.102.4","200","/carbid/CreateBarCode?data=0151800552793106016001004%20%20%20%20%20%20%20&height=40&width=1&barType=Code128","-","-","-",
+"2018-03-27T23:59:52.078Z","AWJp51kuOwJ9bVn2Y3ta","113.110.233.32","Shenzhen","10.3.102.1","200","/servlet/CheckCodeServlet?r=1522195190206","-","-","-",
+"2018-03-27T23:59:51.961Z","AWJp51jqOwJ9bVn2Y3tP","113.110.233.32","Shenzhen","10.3.102.1","200","/carbidBail/toQueryCode","-","-","-",
+"2018-03-27T23:59:49.346Z","AWJp5051OwJ9bVn2Y3l7","10.3.101.9","-","10.3.102.3","200","/carbidWechat/validCodeReq","-","-","-",
+"2018-03-27T23:59:49.301Z","AWJp505pOwJ9bVn2Y3lt","10.3.101.9","-","10.3.102.3","200","/carbidWechat/validCodeReq","-","-","-",
